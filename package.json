@@ -1,0 +1,26 @@
+{
+  "name": "loud-flow",
+  "version": "1.0.0",
+  "description": "An API Connect flow based programming demo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "apic edit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No9/loud-flow.git"
+  },
+  "keywords": [
+    "apiconnect",
+    "fbp"
+  ],
+  "author": "anton whalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/No9/loud-flow/issues"
+  },
+  "homepage": "https://github.com/No9/loud-flow#readme",
+  "dependencies": {
+    "mgw-shouty": "^1.0.0"
+  }
+}

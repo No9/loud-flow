@@ -1,0 +1,5 @@
+{ 
+   "userPolicies" : [
+     "./policies/mgw-shouty"
+   ]
+}
